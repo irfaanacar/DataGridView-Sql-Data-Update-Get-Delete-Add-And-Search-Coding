@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\bin\Debug\DataGridViewVeriGuncellemeVeArama.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\bin\Debug\DataGridViewVeriGuncellemeVeArama.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\bin\Debug\DataGridViewVeriGuncellemeVeArama.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\DataGridViewVeriGuncellemeVeArama\obj\Debug\DataGridViewVeriGuncellemeVeArama.pdb
